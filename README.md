@@ -14,9 +14,9 @@ Instalación desde kali linux s
 
 install  Dead wifi
 
-git clone 
-cd Dead_Wifi
-chmod + DeadWifi.sh
+git clone https://github.com/nochemax/Dead_Wifi.git &&
+cd Dead_Wifi &&
+chmod + DeadWifi.sh &&
 ./DeadWifi.sh
 
 Metodología de ataque agresivo o chop chop usted debe de tomar está decisión ya que un ataque agresivo previo sin información del dispositivo puede ser bloqueado por un router de calidad y sofisticado por tanto tiene que tomar la decisión de repetir tantos números de ataques como necesite para saturar la capacidad de proceso del router y que se quede sin señal y posteriormente saturado hasta por el numero de paquetes por procesar en el ataque solo queda visible la MAC del atacante o agresor por lo que es importante seguir el orden del menú  para un ataque efectivo y oculto.
